@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Primary Purple Shades -->
+    <color name="bs_primary">#6A0DAD</color> <!-- Main Purple -->
+    <color name="bs_primary_dark">#590A8E</color> <!-- Darker Purple -->
+    <color name="bs_primary_darken">#470873</color> <!-- Even Darker Purple -->
+    <color name="bs_primary_light">#8A32D8</color> <!-- Lighter Purple -->
+    <color name="bs_primary_lighter">#B183E0</color> <!-- Lightest Purple -->
+    <color name="bs_primary_accent">#4E0D8E</color> <!-- Accent Purple -->
+    <color name="bs_primary_shadow">#36095A</color> <!-- Shadowed Purple -->
+
+    <!-- Secondary Purple Shades -->
+    <color name="bs_secondary">#A051B2</color> <!-- Secondary Purple -->
+    <color name="bs_secondary_dark">#723A7D</color> <!-- Darker Secondary Purple -->
+    <color name="bs_secondary_light">#BC85CF</color> <!-- Lighter Secondary Purple -->
+    <color name="bs_secondary_lighter">#EFE2F7</color> <!-- Lightest Secondary Purple -->
+    <color name="bs_secondary_accent">#8A3A94</color> <!-- Accent Secondary Purple -->
+    <color name="bs_secondary_shadow">#5C2A6C</color> <!-- Shadowed Secondary Purple -->
+
+    <!-- Complementary Colors -->
+    <color name="bs_complementary">#FFD700</color> <!-- Gold (Complementary to Purple) -->
+    <color name="bs_complementary_dark">#BFA000</color> <!-- Dark Gold -->
+    <color name="bs_complementary_light">#FFE54C</color> <!-- Light Gold -->
+    <color name="bs_complementary_lighter">#FFF4B2</color> <!-- Lighter Gold -->
+
+    <!-- Accent & Highlight Colors -->
+    <color name="bs_highlight">#EDE3F5</color> <!-- Soft Highlight -->
+    <color name="bs_accent">#9F78B5</color> <!-- Accent Shade for Depth -->
+    <color name="bs_background">#F3EBFA</color> <!-- Background Purple Tint -->
+    <color name="bs_border">#7C3C98</color> <!-- Border Color -->
+    <color name="bs_shadow">#4A1F66</color> <!-- Darker Shadow Tone -->
+    <color name="bs_neutral_gray">#E2E2E2</color> <!-- Neutral Gray for Contrast -->
+
+    <color name="bs_gray">#6c757d</color>
+    <color name="bs_gray_dark">#343a40</color>
+    <color name="bs_gray_100">#f8f9fa</color>
+    <color name="bs_gray_200">#e9ecef</color>
+    <color name="bs_gray_300">#dee2e6</color>
+    <color name="bs_gray_400">#ced4da</color>
+    <color name="bs_gray_500">#adb5bd</color>
+    <color name="bs_gray_600">#6c757d</color>
+    <color name="bs_gray_700">#495057</color>
+    <color name="bs_gray_800">#343a40</color>
+    <color name="bs_gray_900">#212529</color>
+
+    <color name="dark_green">#032430</color>
+    <color name="cool_green">#10615F</color>
+    <color name="light_green">#84BC47</color>
+    <color name="off_white">#F0F0F0</color>
+    <color name="bs_blue">#217573</color>
+    <color name="bs_indigo">#6610f2</color>
+    <color name="bs_purple">#6f42c1</color>
+    <color name="bs_pink">#d63384</color>
+    <color name="bs_red">#dc3545</color>
+    <color name="bs_orange">#fd7e14</color>
+    <color name="bs_yellow">#ffc107</color>
+    <color name="bs_green">#11998e</color>
+    <color name="bs_green_dark">#0F6542</color>
+    <color name="bs_teal">#20c997</color>
+    <color name="bs_cyan">#0dcaf0</color>
+
+    <color name="bs_success">#0F6542</color>
+    <color name="bs_info">#3B3A99</color>
+    <color name="bs_warning">#FFC107</color>
+    <color name="bs_danger">#AD1221</color>
+    <color name="bs_success_text">#ffffff</color>
+    <color name="bs_info_text">#ffffff</color>
+    <color name="bs_warning_text">#332909</color>
+    <color name="bs_danger_text">#ffffff</color>
+    <color name="bs_light">#f8f9fa</color>
+    <color name="bs_dark">#212529</color>
+    <color name="bs_primary_rgb">#046f6d</color>
+    <color name="bs_secondary_rgb">#84bc47</color>
+    <color name="bs_success_rgb">#0f6542</color>
+    <color name="bs_info_rgb">#3b3a99</color>
+    <color name="bs_warning_rgb">#ffc107</color>
+    <color name="bs_danger_rgb">#ad1221</color>
+    <color name="bs_light_rgb">#f8f9fa</color>
+    <color name="bs_dark_rgb">#212529</color>
+    <color name="bs_white_rgb">#ffffff</color>
+    <color name="bs_black_rgb">#000000</color>
+    <color name="bs_body_color_rgb">#212529</color>
+</resources>
